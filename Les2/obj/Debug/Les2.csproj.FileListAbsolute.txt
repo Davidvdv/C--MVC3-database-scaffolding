@@ -1,0 +1,7 @@
+c:\users\david\documents\visual studio 2010\Projects\Les2\Les2\bin\Les2.dll
+c:\users\david\documents\visual studio 2010\Projects\Les2\Les2\bin\Les2.pdb
+c:\users\david\documents\visual studio 2010\Projects\Les2\Les2\bin\EntityFramework.dll
+c:\users\david\documents\visual studio 2010\Projects\Les2\Les2\bin\EntityFramework.xml
+c:\users\david\documents\visual studio 2010\Projects\Les2\Les2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2010\Projects\Les2\Les2\obj\Debug\Les2.dll
+c:\users\david\documents\visual studio 2010\Projects\Les2\Les2\obj\Debug\Les2.pdb
